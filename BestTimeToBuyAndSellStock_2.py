@@ -27,7 +27,7 @@ class Solution(object):
 
 # test case 3
 # Output: 1
-# prices = [2, 2,  1, 0, 1]
+# prices = [2, 2, 1, 0, 1]
 
 # test case 4
 # Output: 2
