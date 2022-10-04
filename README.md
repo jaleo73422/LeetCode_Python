@@ -3,6 +3,10 @@
 | No.  | Problem  | Difficulty | Solution  |
 | ----- |:----- |:----- |:----- |
 | 0001 | Two Sum | Easy | 3)Hashmap |
+| 0011 | Container With Most Water | Medium |  |
+| 0015 | Three Sum | Medium |  |
+| 0033 | Search in Rotated Sorted Array | Medium |  |
+| 0053 | Maximum Subarray | Medium |  |
 | 0053 | Maximum Subarray | Medium |  |
 | 0121 | Best Time to Buy and Sell Stock | Easy |  |
 | 0152 | Maximum Product Subarray | Medium |  |
