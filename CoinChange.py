@@ -1,5 +1,9 @@
 class Solution:
     def coinChange(self, coins, amount):
+        """
+        Each element of all_combination is the minimum numbers of coins 
+        required to reach the amount represented by this index
+        """
         all_combination = [amount + 1] * (amount + 1)
         all_combination[0] = 0
 

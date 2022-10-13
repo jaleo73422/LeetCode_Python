@@ -16,6 +16,7 @@
 | 0217 | Contains Duplicate | Easy | 1) Sort <br> 2) Hashset |
 | 0238 | Product of Array Except Self | Medium | 2) Prefix, postfix <br> 3) Prefix, postfix |
 | 0268 | Missing Number | Easy | 2) Bitwise |
+| 0300 | Longest Increasing Subsequence | Medium | 1) Dynamic programming |
 | 0322 | Coin Change | Medium | 1) Dynamic programming |
 | 0338 | Counting Bits | Easy | 2) Bitwise <br> 3) Dynamic programming |
 | 0371 | Sum of Two Integers | Medium | (?) |
