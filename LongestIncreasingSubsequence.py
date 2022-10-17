@@ -23,8 +23,7 @@ class Solution:
         return ans + 1
 
 # input
-# coins = 
-# amount = 
+# nums = 
 
 # test case 1
 # Output: 4

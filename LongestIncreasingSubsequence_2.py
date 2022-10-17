@@ -14,8 +14,7 @@ class Solution:
         return max(LIS)
 
 # input
-# coins = 
-# amount = 
+# nums =  
 
 # test case 1
 # Output: 4
