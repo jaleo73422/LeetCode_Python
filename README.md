@@ -9,6 +9,7 @@
 | 0053 | Maximum Subarray | Medium |  |
 | 0070 | Climbing Stairs | Easy |  |
 | 0121 | Best Time to Buy and Sell Stock | Easy |  |
+| 0139 | Word Break | Medium | 1) Dynamic programming (S level) |
 | 0152 | Maximum Product Subarray | Medium |  |
 | 0153 | Find Minimum in Rotated Sorted Array | Medium | 2) Binary search <br> 3) Binary search (S level) |
 | 0190 | Reverse Bits | Easy | 1) Wrong Answer in Python3 <br> 2) Bitwise |
@@ -21,5 +22,6 @@
 | 0338 | Counting Bits | Easy | 2) Bitwise <br> 3) Dynamic programming |
 | 0371 | Sum of Two Integers | Medium | (?) |
 | 0509 | Fibonacci Number | Easy |  |
+| 1143 | Longest Common Subsequence | Medium | 1) Dynamic programming |
 
 [read more](https://hackmd.io/HNTS1fpvRtqjpGlUiQEV3g)
