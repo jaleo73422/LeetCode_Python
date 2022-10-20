@@ -15,6 +15,7 @@
 | 0153 | Find Minimum in Rotated Sorted Array | Medium | 2) Binary search <br> 3) Binary search (S level) |
 | 0190 | Reverse Bits | Easy | 1) Wrong Answer in Python3 <br> 2) Bitwise |
 | 0191 | Number of One Bits | Easy | 1) Bitwise <br> 2) Bitwise |
+| 0198 | House Robber | Medium | 2) (S level) |
 | 0217 | Contains Duplicate | Easy | 1) Sort <br> 2) Hashset |
 | 0238 | Product of Array Except Self | Medium | 2) Prefix, postfix <br> 3) Prefix, postfix |
 | 0268 | Missing Number | Easy | 2) Bitwise |
