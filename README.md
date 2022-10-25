@@ -9,6 +9,7 @@
 | 0039 | Combination Sum | Medium | 2) DFS |
 | 0053 | Maximum Subarray | Medium |  |
 | 0070 | Climbing Stairs | Easy |  |
+| 0091 | Decode Ways | Medium | 1) Dynamic programming <br> 2) DFS |
 | 0121 | Best Time to Buy and Sell Stock | Easy |  |
 | 0139 | Word Break | Medium | 1) Dynamic programming (S level) |
 | 0152 | Maximum Product Subarray | Medium | 2)  |
