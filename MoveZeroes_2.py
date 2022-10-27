@@ -1,0 +1,32 @@
+class Solution:
+    def moveZeroes(self, nums):
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        new_element = 0
+
+        for i in nums:
+            if i != 0:
+                nums[new_element] = i
+                new_element += 1
+            
+        for i in range(new_element, len(nums)):
+            nums[i] = 0
+            
+        return nums
+
+# input
+# nums = 
+
+# test case 1
+# Output: [1, 3, 12, 0, 0]
+nums = [0, 1, 0, 3, 12]
+
+# test case 2
+# Output: [0]
+# nums = [0]
+
+sol = Solution()
+
+output = sol.moveZeroes(nums)
+print(output)
