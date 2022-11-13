@@ -7,6 +7,7 @@ class Solution(object):
         fin_max = min(nums)
 
         for i in nums:
+            # if there is 0 in nums, max_product = i
             tem_max = max(max_product * i, min_product * i, i)
             tem_min = min(max_product * i, min_product * i, i)
             max_product = tem_max

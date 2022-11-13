@@ -9,14 +9,12 @@ class Solution:
                 return M
             
             if nums[M] >= nums[L]:
-                # if target < nums[M] and target > nums[L]: => wrong
-                if target <= nums[M] and target >= nums[L]:
+                if target < nums[M] and target >= nums[L]:
                     R = M - 1
                 else:
                     L = M + 1
             else:
-                # if target < nums[R] and target > nums[M]: => wrong
-                if target <= nums[R] and target >= nums[M]:
+                if target > nums[M] and target <= nums[R]:
                     L = M + 1
                 else:
                     R = M - 1

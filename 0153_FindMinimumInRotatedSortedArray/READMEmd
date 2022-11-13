@@ -1,0 +1,28 @@
+x x x x x
+L   M   R
+
+  *
+ *
+*
+-------
+     *
+    *
+   *
+
+有序陣列的搜尋考慮Binary Search，
+nums[M] > nums[0]時，
+表示起點在(M, R]區間 => L = M + 1；
+
+nums[M] < nums[0]時，
+表示起點在[L, M]區間 => R = M。
+
+考慮edge case: nums[M] = nums[0]，
+表示只有兩個元素[2, 5]或[5, 2]，
+case1: [5, 2]，
+因為M是取商，
+此種狀況併入nums[M] > nums[0] => nums[M] >= nums[0]。
+
+case2: [2, 5]，
+此種狀況併入no rotatted單純sorted array的情形中，
+if nums[L] < nums[R]:
+    return nums[L]

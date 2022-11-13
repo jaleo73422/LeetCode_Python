@@ -1,15 +1,8 @@
 class Solution:
     def rob(self, nums):
-        """
-        n1 n2 n3 ... nn-1 nn nn+1 ...
-        L = sum(n1 : nn-1)
-        M = nn
-        R = nn+1
-        => L M R
-        output = max(L + R, M)
-        """
         L, M = 0, 0
 
+        # [L, M, i, i + 1, ...]
         for i in nums:
             tem = max(L + i, M)
             L = M  # next round

@@ -9,7 +9,7 @@ class Solution:
             else:
                 dp[i] = dp[i + 1]
             
-            if i + 1 != len(s) and int(s[i] + s[i + 1]) <= 26 and int(s[i]) != 0:
+            if (i + 1) != len(s) and int(s[i] + s[i + 1]) <= 26 and int(s[i]) != 0:
                 dp[i] += dp[i + 2]
 
         return dp[0]

@@ -1,0 +1,16 @@
+X X [X i] X X
+dp[i] = max(dp[i - 1] * nums[i], dp[i - 1], num[i])
+
+子集合問題考慮DP，
+dp[i]表示到i為止的最大子集合情形，
+計算乘積時，
+遇到負號時，
+最大積跟最小積角色會互換，
+tem_max = max(max_product * i, min_product * i, i)
+tem_min = min(max_product * i, min_product * i, i)
+若nums[i]為0時，
+要從非0的下個值開始重新計算乘積，
+因此私多考慮num[i]的大小。
+
+有0會產生斷點，
+不一定要用DP處理。

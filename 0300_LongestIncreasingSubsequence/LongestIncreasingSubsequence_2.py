@@ -28,6 +28,10 @@ nums = [0, 1, 0, 3, 2, 3]
 # Output: 1
 # nums = [7, 7, 7, 7, 7, 7, 7]
 
+# test case 4
+# Output: 3
+# nums = [10, 9, 2, 5, 1, 4, 101, 18, 6]
+
 sol = Solution()
 
 output = sol.lengthOfLIS(nums)
