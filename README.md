@@ -92,4 +92,5 @@
 | 0338 | Counting Bits | Easy | 2) Bitwise <br/> 3) Dynamic programming |
 | 0509 | Fibonacci Number | Easy |  |
 
-[read more](https://hackmd.io/HNTS1fpvRtqjpGlUiQEV3g)
+[read more](https://hackmd.io/HNTS1fpvRtqjpGlUiQEV3g?view#Algorithm---Theory)
+[read more](https://hackmd.io/gQ_lwEIWQo2UmV2RBqSAOg?view)
