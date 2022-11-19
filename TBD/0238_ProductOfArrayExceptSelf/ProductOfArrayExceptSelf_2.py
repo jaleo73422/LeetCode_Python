@@ -1,11 +1,5 @@
 class Solution(object):
     def productExceptSelf(self, nums):
-        """
-        perfix:  1  1  2  6 24          1  1  2  6
-        input:      1  2  3  4     =>   1  2  3  4
-        postfix:   24 24 12  4  1      24 12  4  1
-        oitput:                        24 12  8  6
-        """
         length = len(nums)
         prefix = [nums[0]] * length
         postfix = [nums[length - 1]] * length

@@ -2,7 +2,6 @@ class Solution(object):
     def productExceptSelf(self, nums):
         zero_num = 0
         total = 1
-        # answer = nums
 
         for i in nums:
             if i == 0:

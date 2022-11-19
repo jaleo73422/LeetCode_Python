@@ -1,22 +1,16 @@
 class Solution:
     def countBits(self, n):
-        now = 0
-        count = 0
         output = []
         
-        while now <= n:
-            tem = now
+        for i in range(n + 1):
             count = 0
 
-            while tem >= 1:
-                print(tem)
-                if tem % 2 == 1:
-                    count += 1
+            while i:
+                if i % 2 == 1:  count += 1
 
-                tem //= 2
+                i //= 2
 
             output.append(count)
-            now += 1
             
         return output
 

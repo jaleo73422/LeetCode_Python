@@ -1,14 +1,14 @@
 class Solution:
     def hammingWeight(self, n):
-        count = 0
-
-        while n:
-            n &= n - 1
+        ans, i = 0, 0
+        
+        while i < 32:
+            ans += (n & 1)
             
-            count += 1
+            n >>= 1
+            i += 1
 
-        return count
-
+        return ans
 
 # input
 # n =  

@@ -3,16 +3,19 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        new_element = 0
+        l, r = 0, 0
 
-        for i in nums:
-            if i != 0:
-                nums[new_element] = i
-                new_element += 1
-            
-        for i in range(new_element, len(nums)):
-            nums[i] = 0
-            
+        while (r < len(nums)):
+            if nums[r] == 0:
+                r += 1
+            else:
+                temp = nums[l]
+                nums[l] = nums[r]
+                nums[r] = temp
+
+                l += 1
+                r += 1
+        
         return nums
 
 # input

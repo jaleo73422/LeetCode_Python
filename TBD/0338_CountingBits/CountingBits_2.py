@@ -1,20 +1,15 @@
 class Solution:
     def countBits(self, n):
-        now = 1
-        count = 0
-        output = [0]
+        output = []
         
-        while now <= n:
-            tem = now
+        for i in range(n + 1):
             count = 0
 
-            while tem:
-                tem &= tem - 1
-                
+            while i:
+                i &= (i - 1)
                 count += 1
 
             output.append(count)
-            now += 1
             
         return output
 

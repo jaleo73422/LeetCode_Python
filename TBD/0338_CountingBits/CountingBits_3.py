@@ -15,8 +15,7 @@ class Solution:
         offset = 1
 
         for i in range(1, n + 1):
-            if i == offset * 2:
-                offset = i
+            if i == offset * 2:  offset = i
 
             output[i] = 1 + output[i - offset]
         

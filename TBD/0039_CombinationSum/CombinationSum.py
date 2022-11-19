@@ -59,7 +59,6 @@ class Solution:
 candidates = [2]
 target = 1
 
-
 sol = Solution()
 
 output = sol.combinationSum(candidates, target)
