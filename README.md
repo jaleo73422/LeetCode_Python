@@ -9,6 +9,8 @@
 | 0033 | Search in Rotated Sorted Array | Medium (M) | 1) <font color="#f00">2)</font> 3) Binary search |
 | 0039 | Combination Sum | Medium | <font color="#f00">1)</font> Dynamic programming <br/> <font color="#f00">2) 3)</font> DFS |
 | 0053 | Maximum Subarray | Medium (E+) | 3) Dynamic programming (Kadane's algorithm) |
+| 0055 | Jump Game | Medium (E+) | <font color="#f00">1)</font> Greedy Algorithm |
+| 0062 | Unique Paths | Medium | 1) <font color="#f00">2)</font> Dynamic programming |
 | 0070 | Climbing Stairs | Easy | Dynamic programming |
 | 0091 | Decode Ways | Medium (M) | <font color="#f00">1)</font> Dynamic programming <br/> 2) DP + DFS |
 | 0121 | Best Time to Buy and Sell Stock | Easy | <font color="#f00">2)</font> Two pointers |
@@ -61,6 +63,7 @@
 | ----- |:----- |:----- |:----- |
 | 0039 | Combination Sum | Medium | <font color="#f00">1)</font> Dynamic programming <br/> <font color="#f00">2) 3)</font> DFS |
 | 0053 | Maximum Subarray | Medium (E+) | <font color="#f00">3)</font> Dynamic programming (Kadane's algorithm) |
+| 0062 | Unique Paths | Medium | 1) <font color="#f00">2)</font> Dynamic programming |
 | 0070 | Climbing Stairs | Easy | Dynamic programming |
 | 0091 | Decode Ways | Medium (M) | <font color="#f00">1)</font> Dynamic programming <br/> 2) DP + DFS |
 | 0139 | Word Break | Medium (M+) | <font color="#f00">1)</font> Dynamic programming <br/> 2) Trie |
@@ -76,6 +79,7 @@
 ### Greedy Algorithm
 | No.  | Problem  | Difficulty | Solution |
 | ----- |:----- |:----- |:----- |
+| 0055 | Jump Game | Medium (E+) | <font color="#f00">1)</font> Greedy Algorithm |
 | 0300 | Longest Increasing Subsequence | Medium (M+) | 1) <font color="#f00">2) 3)</font> Dynamic programming <br/> <font color="#f00">4)</font> Greedy Algorithm |
 
 ### Hash
