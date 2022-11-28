@@ -14,6 +14,7 @@
 | 0070 | Climbing Stairs | Easy | Dynamic programming |
 | 0091 | Decode Ways | Medium (M) | <font color="#f00">1)</font> Dynamic programming <br/> 2) DP + DFS |
 | 0121 | Best Time to Buy and Sell Stock | Easy | <font color="#f00">2)</font> Two pointers |
+| 0133 | Clone Graph | Medium (M+) | <font color="#f00">1)</font> Hashmap <br/> <font color="#f00">2)</font> DFS + Hashmap <br/> <font color="#f00">3)</font> BFS + Hashmap |
 | 0136 | Single Number | Easy (M) | <font color="#f00">2)</font> Bitwise |
 | 0139 | Word Break | Medium (M+) | <font color="#f00">1)</font> Dynamic programming <br/> 2) Trie |
 | 0152 | Maximum Product Subarray | Medium (M+) | 2) Dynamic programming |
@@ -36,6 +37,11 @@
 |   |  |
 
 ## Topoc list
+### BFS
+| No.  | Problem  | Difficulty | Solution |
+| ----- |:----- |:----- |:----- |
+| 0133 | Clone Graph | Medium (M+) | <font color="#f00">1)</font> Hashmap <br/> <font color="#f00">2)</font> DFS + Hashmap <br/> <font color="#f00">3)</font> BFS + Hashmap |
+
 ### Binary Search
 | No.  | Problem  | Difficulty | Solution |
 | ----- |:----- |:----- |:----- |
@@ -57,6 +63,7 @@
 | ----- |:----- |:----- |:----- |
 | 0039 | Combination Sum | Medium | <font color="#f00">1)</font> Dynamic programming <br/> <font color="#f00">2) 3)</font> DFS |
 | 0091 | Decode Ways | Medium (M) | <font color="#f00">1)</font> Dynamic programming <br/> 2) DP + DFS |
+| 0133 | Clone Graph | Medium (M+) | <font color="#f00">1)</font> Hashmap <br/> <font color="#f00">2)</font> DFS + Hashmap <br/> <font color="#f00">3)</font> BFS + Hashmap |
 
 ### Dynamic Programming
 | No.  | Problem  | Difficulty | Solution |
@@ -86,6 +93,7 @@
 | No.  | Problem  | Difficulty | Solution |
 | ----- |:----- |:----- |:----- |
 | 0001 | Two Sum | Easy | <font color="#f00">3)</font> Hashmap |
+| 0133 | Clone Graph | Medium (M+) | <font color="#f00">1)</font> Hashmap <br/> <font color="#f00">2)</font> DFS + Hashmap <br/> <font color="#f00">3)</font> BFS + Hashmap |
 | 0202 | Happy Number | Easy | 1) Unhappy cycle <br/> <font color="#f00">2)</font> Cycle finding: Floyd's Algorithm: Tortoise and Hare Algorithm <br/> <font color="#f00">3)</font> Hashmap |
 | 0217 | Contains Duplicate | Easy | 1) Sort <br/> <font color="#f00">2)</font> Hashmap |
 
@@ -113,3 +121,7 @@
 
 [read more](https://hackmd.io/HNTS1fpvRtqjpGlUiQEV3g?view#Algorithm---Theory)
 [read more](https://hackmd.io/gQ_lwEIWQo2UmV2RBqSAOg?view)
+[Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+[NeetCode YouTube](https://www.youtube.com/c/NeetCode/playlists)
+[wisdompeak LeetCode in GitHub](https://github.com/wisdompeak/LeetCode)
+[JIAKAOBO LeetCode](https://www.jiakaobo.com/leetcode.html)
