@@ -1,3 +1,5 @@
+from collections import deque
+
 # Definition for a Node.
 class Node:
     def __init__(self, val = 0, neighbors = None):
@@ -14,7 +16,6 @@ class Solution:
         
         while queue:
             cur_node = queue.popleft()
-            tem = []
             
             for i in cur_node.neighbors:
                 if i not in clone:

@@ -27,11 +27,15 @@ class Solution:
 
 # test case 3
 # Output: 0
-s = "06"
+# s = "06"
 
 # test case 4
 # Output: 1
 # s = "10"
+
+# test case 5
+# Output: 1
+s = "2101"
 
 sol = Solution()
 
