@@ -122,9 +122,9 @@
 
 ### TBD
 
-[read more](https://hackmd.io/HNTS1fpvRtqjpGlUiQEV3g?view#Algorithm---Theory)
-[read more](https://hackmd.io/gQ_lwEIWQo2UmV2RBqSAOg?view)
-[Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
-[NeetCode YouTube](https://www.youtube.com/c/NeetCode/playlists)
-[wisdompeak LeetCode in GitHub](https://github.com/wisdompeak/LeetCode)
-[JIAKAOBO LeetCode](https://www.jiakaobo.com/leetcode.html)
+[read more](https://hackmd.io/HNTS1fpvRtqjpGlUiQEV3g?view#Algorithm---Theory) <br/>
+[read more](https://hackmd.io/gQ_lwEIWQo2UmV2RBqSAOg?view) <br/>
+[Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) <br/>
+[NeetCode YouTube](https://www.youtube.com/c/NeetCode/playlists) <br/>
+[wisdompeak LeetCode in GitHub](https://github.com/wisdompeak/LeetCode) <br/>
+[JIAKAOBO LeetCode](https://www.jiakaobo.com/leetcode.html) <br/>
