@@ -36,8 +36,9 @@
 | 0338 | Counting Bits | Easy | <font color="#f00">2) 4)</font> Bitwise <br/> 3) 7) Dynamic programming <br/> 5) DP + Bitwise(BIT) <br/> 6) DP + Bitwise |
 | 0371 | Sum of Two Integers | Medium (H) | <font color="#f00">1)</font> Bitwise |
 | 0509 | Fibonacci Number | Easy | Dynamic programming |
+| 0981 | Time Based Key-Value Store | Medium | <font color="#f00">1)</font> Binary search <br/> 2) ? |
 | 1143 | Longest Common Subsequence | Medium (M) | <font color="#f00">1) 2)</font> Dynamic programming |
-|   |  |
+|   |  |   |  |
 
 ## Topoc list
 ### BFS
@@ -50,6 +51,7 @@
 | --- | :------ | :--------- | :------- |
 | 0033 | Search in Rotated Sorted Array | Medium (M) | 1) <font color="#f00">2)</font> 3) Binary search |
 | 0153 | Find Minimum in Rotated Sorted Array | Medium (M+) | 2) 3) 4) <font color="#f00">5)</font> Binary search |
+| 0981 | Time Based Key-Value Store | Medium | <font color="#f00">1)</font> Binary search <br/> 2) ? |
 
 ### Bitwise
 | No. | Problem | Difficulty | Solution |
