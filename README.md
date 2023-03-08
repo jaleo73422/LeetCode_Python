@@ -24,7 +24,7 @@
 | 0153 | Find Minimum in Rotated Sorted Array | Medium (M+) | 2) 3) 4) <font color="#f00">5)</font> Binary search |
 | 0190 | Reverse Bits | Easy | <font color="#f00">1) 2)</font> Bitwise |
 | 0191 | Number of One Bits | Easy | 1) <font color="#f00">2) 3)</font> Bitwise |
-| 0198 | House Robber | Medium(E) | 1) <font color="#f00">2)</font> 3) Dynamic programming |
+| 0198 | House Robber | Medium(E) | 1) <font color="#f00">2)</font> 3) Dynamic programming <br/> <font color="#f00">4)</font> |
 | 0202 | Happy Number | Easy | 1) Unhappy cycle <br/> <font color="#f00">2)</font> Cycle finding: Floyd's Algorithm: Tortoise and Hare Algorithm <br/> <font color="#f00">3)</font> Hashmap |
 | 0213 | House Robber II | Medium(M+) | <font color="#f00">1)</font> 2) Dynamic programming |
 | 0217 | Contains Duplicate | Easy | 1) Sort <br/> <font color="#f00">2)</font> Hashmap |
@@ -80,7 +80,7 @@
 | 0091 | Decode Ways | Medium (M) | <font color="#f00">1)</font> Dynamic programming <br/> 2) DP + DFS |
 | 0139 | Word Break | Medium (M+) | <font color="#f00">1)</font> Dynamic programming <br/> 2) Trie |
 | 0152 | Maximum Product Subarray | Medium (M+) | <font color="#f00">1)</font> <br/> <font color="#f00">2)</font> Dynamic programming |
-| 0198 | House Robber | Medium(E) | 1) <font color="#f00">2)</font> 3) Dynamic programming |
+| 0198 | House Robber | Medium(E) | 1) <font color="#f00">2)</font> 3) Dynamic programming <br/> <font color="#f00">4)</font> |
 | 0213 | House Robber II | Medium(M+) | <font color="#f00">1)</font> 2) Dynamic programming |
 | 0300 | Longest Increasing Subsequence (M+) | Medium | 1) <font color="#f00">2) 3)</font> Dynamic programming <br/> <font color="#f00">4)</font> Greedy Algorithm |
 | 0322 | Coin Change | Medium (M) | <font color="#f00">1)</font> Dynamic programming |
